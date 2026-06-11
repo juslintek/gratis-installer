@@ -5,7 +5,7 @@ final class Installer
 {
     private const PLUGINS = [
         'core' => [
-            'juslintek/cache-manager' => 'Cache Manager — Performance, Redis, tracing',
+            'juslintek/gratis-cache' => 'Gratis Cache — Performance, Redis, tracing',
             'juslintek/gratis-backup' => 'Backup — Stream-first, scheduled',
             'juslintek/gratis-fleet' => 'Fleet — Multi-site management',
             'juslintek/gratis-seo' => 'SEO — Meta tags, sitemap, schema',
